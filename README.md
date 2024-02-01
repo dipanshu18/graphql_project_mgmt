@@ -7,6 +7,7 @@ The status setting on project is achieved with GraphQLEnums which let's us choos
 
 ## Demo
 ![project-mgmt-gif](https://github.com/dipanshu18/graphql_project_mgmt/assets/88198352/aa5bb72a-7ff9-4e24-b417-89dedacc4520)
+### Demo Link -> https://graphql-project-mgmt.vercel.app
 
 # Tech Stack used:-
 - Reactjs
