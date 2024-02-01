@@ -28,7 +28,7 @@ export default function Clients() {
       {!loading && !error && data && (
         <>
           <h1 className="my-6 text-2xl lg:text-4xl font-bold">Clients</h1>
-          <div className="overflow-x-auto">
+          <div className="overflow-x-auto bg-base-300 rounded-lg shadow-xl shadow-base-300">
             <table className="table">
               {/* head */}
               <thead>

@@ -9,10 +9,6 @@ export default function Navbar() {
           Project Mgmt
         </span>
       </div>
-      {/* <div className="navbar-end gap-2">
-        <button className="btn">Button</button>
-        <button className="btn">Button</button>
-      </div> */}
     </div>
   );
 }
