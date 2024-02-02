@@ -20,3 +20,6 @@ The status setting on project is achieved with GraphQLEnums which let's us choos
 - GraphQL Apollo Client
 - Mongoose
 - MongoDB
+
+## Features to be added
+- JWT Auth && Login, Signup functionality.
